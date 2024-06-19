@@ -1,0 +1,6 @@
+bot/
+data.json
+logs/
+src/.venv
+src/__pychache__/
+__pychache__/

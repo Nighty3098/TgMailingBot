@@ -34,7 +34,7 @@ async def main_menu(message: Message, state: FSMContext) -> None:
     user_role = await get_user_role(user_id)
 
     if user_role == 1:
-        await message.answer(f"Привет, {username}")
+        await message.answer(f"сәлем, қалайсың?")
         logger.info(f"User: {user_id}:{username} logged in")
     if user_role == 0:
         await state.update_data(admin_id=user_id, username=username)
