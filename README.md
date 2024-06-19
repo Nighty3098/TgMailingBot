@@ -1,4 +1,4 @@
-<h1 align="center">TG BOT</h1>
+<h1 align="center">TG BOT [freelance]</h1>
 
 <div align="center">
 🧋 Bot for sending messages to a large number of users in telegram 🧋
