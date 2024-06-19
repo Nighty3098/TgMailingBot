@@ -1,5 +1,9 @@
 <h1 align="center">TG BOT</h1>
 
+<div align="center">
+🧋 Bot for sending messages to a large number of users in telegram 🧋
+</div>
+
 <div align="center">    
     <h3>Installing</h3>
 
