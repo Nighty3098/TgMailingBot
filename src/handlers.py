@@ -73,7 +73,7 @@ async def get_message(message: Message, state: FSMContext) -> None:
                 caption = message.caption
                 logger.debug(f"Picture received: {file_url}")
                 logger.info(f"Admin message: {caption}")
-
+                
                 await bot.send_message(admin_id, "Сообщение доставлено")
                 await send_messages_with_picture(file_id, caption, state)
             except Exception as e:

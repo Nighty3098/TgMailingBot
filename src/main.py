@@ -9,7 +9,6 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 from aiogram.utils.markdown import *
 from requests.models import *
 
-
 from handlers import *
 from config import *
 

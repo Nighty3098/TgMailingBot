@@ -4,3 +4,11 @@ logs/
 src/.venv
 src/__pychache__/
 __pychache__/
+src/__pycache__/config.cpython-312.pyc
+src/__pycache__/handlers.cpython-312.pyc
+src/__pycache__/kb_builder.cpython-312.pyc
+src/__pycache__/MESSAGES_TEXT.cpython-312.pyc
+src/__pycache__/send_messages.cpython-312.pyc
+src/__pycache__/StatesGroup.cpython-312.pyc
+src/data/__pycache__/check_user.cpython-312.pyc
+src/data/__pycache__/get_data.cpython-312.pyc
